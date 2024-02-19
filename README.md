@@ -165,7 +165,7 @@
 ![R (a2)](https://github.com/Azumi67/FRP-Wireguard/assets/119934376/9a84efc5-545d-4222-a851-9f08f573766c)
 دستور اجرای اسکریپت 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Azumi67/FRP-Wireguard/main/wire2.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/FTune12/FRWi/main/wire2.sh --ipv4)
 ```
 ----------------------------------------------------------------
 
